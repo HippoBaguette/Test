@@ -1,5 +1,5 @@
 {
-  "name": "Test",
+  "name": "test",
   "version": "1.0.0",
   "description": "Currently testing react.",
   "main": "index.js",
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/HippoBaguette/Test.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
