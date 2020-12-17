@@ -1,2 +1,2 @@
 # Test
-Currently testing git.
+Currently testing Typescript
